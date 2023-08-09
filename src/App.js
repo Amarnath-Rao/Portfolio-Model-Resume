@@ -13,7 +13,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'n-amaranth-rao-631669240',
+    linkedin: 'n-amarnath-rao-631669240',
     twitter: 'AmarnathRaoN',
     mastodon: '',
     facebook: '',
